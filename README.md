@@ -1,4 +1,4 @@
-# YusufPortfolio
+# Yusuf Ders Takip
 
 1. ders 08 November 2022
 2. ders 15 November 2022 bootstrap den ödev footer yapilacakti
